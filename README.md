@@ -224,11 +224,9 @@ This skill is designed to work alongside existing memory systems. It does not re
 - Teams building personal assistants or internal copilots / 正在做个人助理或企业内部 Copilot 的团队
 - Anyone who wants AI memory to be useful without becoming risky / 希望 AI 记忆既有用又可控的人
 
-## Author / 作者
+## collaborator / 协作者
 
-Created by [OneMore07](https://github.com/OneMore07).
-
-由 [OneMore07](https://github.com/OneMore07) 创建。
+collaborator [OneMore07](https://github.com/OneMore07).
 
 ## License / 许可证
 
