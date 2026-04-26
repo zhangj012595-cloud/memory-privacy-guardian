@@ -1,0 +1,8 @@
+interface:
+  display_name: "Memory Privacy Guardian"
+  short_description: "Guard memory privacy, scope, consent, and redaction."
+  brand_color: "#2563EB"
+  default_prompt: "Use $memory-privacy-guardian to audit whether this information should be saved as AI memory."
+
+policy:
+  allow_implicit_invocation: true
